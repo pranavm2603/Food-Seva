@@ -1,4 +1,7 @@
-The FOOD SEVA initiative is a meticulously crafted solution aimed at addressing the
+**Live Preview : http://foodseva.great-site.net/**
+
+
+The **FOOD SEVA** initiative is a meticulously crafted solution aimed at addressing the
 critical issue of food wastage. 
 
 Developed under the expert guidance of seasoned mentors,it focuses on connecting surplus food donors with those in need. 
